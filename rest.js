@@ -1,4 +1,4 @@
-// Feito em grupo Giovana, Wesley, Vitor Castro
+// Feito em grupo André, Giovana, Wesley, Vitor Castro
 
 // Questão 1
 app.post('/users/create', (req, res) => {
